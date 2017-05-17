@@ -1,0 +1,3 @@
+pkg_name=local_pkg_version
+pkg_origin=example
+pkg_scaffolding=$HAB_ORIGIN/scaffolding-node
